@@ -7,7 +7,7 @@ import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import Profile from "./componet/Profile";
 import SellPage from "./componet/SellPage";
 import LoginPage from "./componet/LoginPage";
-
+gggg
 function App() {
   return (
     <div className="App">
